@@ -1,5 +1,5 @@
 /**
- * Created by chaika on 02.02.16.
+ * Created by naste4ka
  */
 var fs = require('fs');
 var ejs = require('ejs');
